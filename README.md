@@ -66,7 +66,7 @@ GitHub stats
 | 2 | [machine-learning-models](https://github.com/mohamed-halemo/Machine-learning-models) |
 | 3 | [image-processing-tools-scratch](https://github.com/mohamed-halemo/Image-processing-Tools-from-scratch) |
 | 4 | [Digital-signal-processing](https://github.com/mohamed-halemo/DSP-Projects) |
-| 5 | [Finding donors](https://github.com/mohamed-halemo/finding_donors) |
+| 5 | [group funding](https://github.com/mohamed-halemo/finding_donors) |
 
 
 
