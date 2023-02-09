@@ -4,7 +4,7 @@
   ![Hello]
 
   
-  USAID Scholar, EducationUSA ambassador, and Junior Software Engineer; Doing SRE!
+  Software engineer, Automation,AI; !
 </div>
 
 <picture>
