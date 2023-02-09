@@ -4,6 +4,7 @@
 
   
   Software engineer, Automation,AI; !
+
 </div>
 
 <picture>
@@ -14,7 +15,8 @@
 
 About
 -----
-My name is mohamed abdelhalem. software engineer; Student at cairo university;AI; Loves using AI to solve real world problems , Loves automating tasks and working with data in general.
+My name is mohamed abdelhalem. software engineer; Student at cairo university; AI, Loves using AI to solve real world problems , Loves automating tasks and working with data in general.
+
 
 
 <!--
