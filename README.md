@@ -1,10 +1,9 @@
 
 <div align="center">
 
-  [![](https://komarev.com/ghpvc/?username=ZiadMansourM&color=blue&label=Profile%20Views)](https://github.com/mohamed-halemo/mohamed-halemo)
-  [![](https://img.shields.io/github/followers/ZiadMansourM?label=GitHub%20Followers)](https://github.com/mohamed-halemo)
+  [![](https://komarev.com/ghpvc/?username=mohamed-halemo&color=blue&label=Profile%20Views)](https://github.com/mohamed-halemo/mohamed-halemo)
+  [![](https://img.shields.io/github/followers/mohamed-halemo?label=GitHub%20Followers)](https://github.com/mohamed-halemo)
   
-  USAID Scholar, EducationUSA ambassador, and Junior Software Engineer; Doing SRE!
   ### Hello there, I'm Mohamed abdelhalem 
 
   
