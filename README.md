@@ -1,7 +1,6 @@
 <div align="center">
   
   ### Hello there, I'm Mohamed abdelhalem 
-  ![Hello]
 
   
   Software engineer, Automation,AI; !
@@ -12,6 +11,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
+About
+-----
+My name is mohamed abdelhalem. software engineer; Student at cairo university;AI; Loves using AI to solve real world problems , Loves automating tasks and working with data in general.
 
 
 <!--
