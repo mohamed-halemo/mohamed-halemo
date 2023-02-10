@@ -7,7 +7,7 @@
   ### Hello there, I'm Mohamed abdelhalem 
 
   
-  Software engineer, Automation,AI; !
+  Software engineer, Automation,AI;C++ !
 
 </div>
 
@@ -36,7 +36,7 @@ Languages and Tools
             </td>
             <td width="80px" align="center">
               <span><strong>Automation</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+              <img height="32px" src="https://img.freepik.com/premium-vector/dark-blue-yellow-robotic-arm-automation-technology-logo-design-template_626654-302.jpg?w=2000">
             </td>
         </tr>
         <tr valign="top">
@@ -54,7 +54,7 @@ Languages and Tools
             </td>
             <td width="80px" align="center">
               <span><strong>Machine Learning</strong></span><br>
-              <img height="32px">
+              <img height="32px" src="https://i.pinimg.com/originals/e8/54/44/e8544455f56ab1d668521bead398f84a.png">
             </td>
         </tr>
     </tbody>
@@ -88,13 +88,11 @@ GitHub stats
 
 -----------------------------------------------------
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 </br>
 
 
 [linkedin]: https://www.linkedin.com/in/mohamed-abdelhalem-eng/
-[whatsapp]: https://wa.me/201151158171
 
 
 <!--
