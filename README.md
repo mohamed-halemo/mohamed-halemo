@@ -7,7 +7,7 @@
   ### Hello there, I'm Mohamed abdelhalem 
 
   
-  Software engineer, Automation,AI;C++ !
+  Software engineer, Automation, AI; C++ !
 
 </div>
 
