@@ -11,11 +11,7 @@
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+
 
 About
 -----
@@ -31,22 +27,39 @@ Languages and Tools
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
             </td>
             <td width="80px" align="center">
-              <span><strong>Machine learning</strong></span><br>
-              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+              <span><strong>Mysql</strong></span><br>
+              <img height="32" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
+            </td>
+            <td width="80px" align="center">
+              <span><strong>Tensorflow</strong></span><br>
+              <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png">
+            </td>
+            <td width="80px" align="center">
+              <span><strong>Automation</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
             </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
-              <span><strong>Automation</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+              <span><strong>PyQT</strong></span><br>
+              <img height="32px" src="https://2.bp.blogspot.com/-JnDJMI0s2n4/Wnyd4XnXLoI/AAAAAAAALY4/KYujvB5oO0gU-6uoMeAbcK9zmigQsDa3wCLcBGAs/s1600/pqtPython.jpg">
             </td>
             <td width="80px" align="center">
-              <span><strong>Deep learning</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+              <span><strong>C++</strong></span><br>
+              <img height="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsTB0aWQUIXpAwP_4iTOqMKzkKBcSPUfsw0Q&usqp=CAU">
             </td>
-          
+            <td width="80px" align="center">
+              <span><strong>Flaskx</strong></span><br>
+              <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png">
+            </td>
+            <td width="80px" align="center">
+              <span><strong>Machine Learning</strong></span><br>
+              <img height="32px">
+            </td>
         </tr>
     </tbody>
+          
+     
 </table>
 GitHub stats
 ------------
@@ -70,7 +83,7 @@ GitHub stats
 | 6 | [Cervical-Spine-Fracture-Detection](https://github.com/mohamed-halemo/Cervical-Spine-Fracture-Detection) |
 | 7 | [Alignment App](https://github.com/mohamed-halemo/Alignment_app) |
 | 8 | [MRI_planes_viewer](https://github.com/mohamed-halemo/MRI-planes-viewer) |
-
+| 9 | [Exudate-detection in fundus images](https://github.com/mohamed-halemo/Exudate-based-detection-in-fundus-images) |
 
 
 -----------------------------------------------------
