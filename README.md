@@ -84,7 +84,7 @@ GitHub stats
 | 7 | [Alignment App](https://github.com/mohamed-halemo/Alignment_app) |
 | 8 | [MRI_planes_viewer](https://github.com/mohamed-halemo/MRI-planes-viewer) |
 | 9 | [Exudate-detection in fundus images](https://github.com/mohamed-halemo/Exudate-based-detection-in-fundus-images) |
-
+| 10 | [Angry-birds-using-EMG-signal-Arduino](https://github.com/mohamed-halemo/Angry-birds-using-EMG-signal-Arduino-) |
 
 -----------------------------------------------------
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
