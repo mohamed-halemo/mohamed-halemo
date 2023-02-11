@@ -79,7 +79,7 @@ GitHub stats
 | 2 | [machine-learning-models](https://github.com/mohamed-halemo/Machine-learning-models) |
 | 3 | [image-processing-tools-scratch](https://github.com/mohamed-halemo/Image-processing-Tools-from-scratch) |
 | 4 | [Digital-signal-processing](https://github.com/mohamed-halemo/DSP-Projects) |
-| 5 | [group funding](https://github.com/mohamed-halemo/GroupFundingWebSiteProject) |
+| 5 | [group funding_website](https://github.com/mohamed-halemo/GroupFundingWebSiteProject) |
 | 6 | [Cervical-Spine-Fracture-Detection](https://github.com/mohamed-halemo/Cervical-Spine-Fracture-Detection) |
 | 7 | [Alignment App](https://github.com/mohamed-halemo/Alignment_app) |
 | 8 | [MRI_planes_viewer](https://github.com/mohamed-halemo/MRI-planes-viewer) |
@@ -87,6 +87,7 @@ GitHub stats
 | 10 | [Angry-birds-using-EMG-signal-Arduino](https://github.com/mohamed-halemo/Angry-birds-using-EMG-signal-Arduino-) |
 | 11 | [Medical-images-rendering-VTK](https://github.com/mohamed-halemo/Medical-images-rendering-VTK) |
 | 12 | [Algorthims tool box](https://github.com/mohamed-halemo/Algorthims_Tool_Box) |
+| 13 | [Deep_learning_practice](https://github.com/mohamed-halemo/Deep_Learning_Practice) |
 
 -----------------------------------------------------
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
