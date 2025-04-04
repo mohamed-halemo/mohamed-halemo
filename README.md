@@ -28,7 +28,7 @@ Languages and Tools
             </td>
             <td width="80px" align="center">
               <span><strong>Postgresql</strong></span><br>
-              <img height="32" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
+              <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png">
             </td>
             <td width="80px" align="center">
               <span><strong>Tensorflow</strong></span><br>
@@ -45,11 +45,11 @@ Languages and Tools
               <img height="32px" src="https://2.bp.blogspot.com/-JnDJMI0s2n4/Wnyd4XnXLoI/AAAAAAAALY4/KYujvB5oO0gU-6uoMeAbcK9zmigQsDa3wCLcBGAs/s1600/pqtPython.jpg">
             </td>
             <td width="80px" align="center">
-              <span><strong>C++</strong></span><br>
+              <span><strong>  </strong></span><br>
               <img height="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsTB0aWQUIXpAwP_4iTOqMKzkKBcSPUfsw0Q&usqp=CAU">
             </td>
             <td width="80px" align="center">
-              <span><strong>Fastt API</strong></span><br>
+              <span><strong>  </strong></span><br>
               <img height="32px" src="https://miro.medium.com/v2/resize:fit:1023/1*du7p50wS_fIsaC_lR18qsg.png">
             </td>
             <td width="80px" align="center">
