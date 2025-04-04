@@ -15,8 +15,13 @@
 
 About
 -----
-My name is mohamed abdelhalem. software engineer; Gradute from cairo university; AI, Loves using AI to solve real world problems , Loves automating tasks and working with data in general.
+👨‍💻 AI Engineer | Software Developer | Biomedical Engineer
 
+I’m a passionate AI engineer and software developer with a background in biomedical engineering. I specialize in AI, image processing, and software development, building intelligent solutions that bridge technology and real-world applications. With experience in machine learning, full-stack development, and cloud computing, I’m constantly exploring new challenges and pushing the boundaries of innovation.
+
+Currently, I’m pursuing my Master’s in Applied Science (Software Systems) at Ontario Tech University, aiming to deepen my expertise in AI and Software Systems.
+
+📌 Skills: Python, AI/ML, Image Processing, FastAPI,Docker,Postgresql, Flutter, Firebase, System Design
 Languages and Tools
 -------------------
 <table width="320px">
