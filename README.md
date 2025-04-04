@@ -50,7 +50,7 @@ Languages and Tools
             </td>
             <td width="80px" align="center">
               <span><strong>Fastt API</strong></span><br>
-              <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png">
+              <img height="32px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png](https://avatars.githubusercontent.com/u/156354296?s=200&v=4)">
             </td>
             <td width="80px" align="center">
               <span><strong>Machine Learning</strong></span><br>
