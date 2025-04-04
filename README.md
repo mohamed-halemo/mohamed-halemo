@@ -74,19 +74,21 @@ GitHub stats
 | Number | Repo Link  |
 | :-----: | :-: |
 | 1 | [Ai_Resume_Screener](https://github.com/mohamed-halemo/AI-Resume_Screener) |
-| 2 | [Covid-19-prediction](https://github.com/mohamed-halemo/Covid_19_Prediction_ML) |
-| 3 | [machine-learning-models](https://github.com/mohamed-halemo/Machine-learning-models) |
-| 4 | [image-processing-tools-scratch](https://github.com/mohamed-halemo/Image-processing-Tools-from-scratch) |
-| 5 | [Digital-signal-processing](https://github.com/mohamed-halemo/DSP-Projects) |
-| 6 | [group funding_website](https://github.com/mohamed-halemo/GroupFundingWebSiteProject) |
+| 2 | [Early Alzhimer's Detection using Deep Learning](https://github.com/mohamed-halemo/Early-Alzheimer-s-Detection) |
+| 3 | [Covid-19-prediction](https://github.com/mohamed-halemo/Covid_19_Prediction_ML) |
+| 4 | [machine-learning-models](https://github.com/mohamed-halemo/Machine-learning-models) |
+| 5 | [image-processing-tools-scratch](https://github.com/mohamed-halemo/Image-processing-Tools-from-scratch) |
+| 6 | [Digital-signal-processing](https://github.com/mohamed-halemo/DSP-Projects) |
 | 7 | [Cervical-Spine-Fracture-Detection](https://github.com/mohamed-halemo/Cervical-Spine-Fracture-Detection) |
-| 8 | [Alignment App](https://github.com/mohamed-halemo/Alignment_app) |
+| 8 | [Bioninformatics Alignment App](https://github.com/mohamed-halemo/Alignment_app) |
 | 9 | [MRI_planes_viewer](https://github.com/mohamed-halemo/MRI-planes-viewer) |
 | 10 | [Exudate-detection in fundus images](https://github.com/mohamed-halemo/Exudate-based-detection-in-fundus-images) |
 | 11 | [Angry-birds-using-EMG-signal-Arduino](https://github.com/mohamed-halemo/Angry-birds-using-EMG-signal-Arduino-) |
 | 12 | [Medical-images-rendering-VTK](https://github.com/mohamed-halemo/Medical-images-rendering-VTK) |
 | 13 | [Algorthims tool box](https://github.com/mohamed-halemo/Algorthims_Tool_Box) |
 | 14 | [Deep_learning_practice](https://github.com/mohamed-halemo/Deep_Learning_Practice) |
+| 15 | [group funding_website](https://github.com/mohamed-halemo/GroupFundingWebSiteProject) |
+
 
 -----------------------------------------------------
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
