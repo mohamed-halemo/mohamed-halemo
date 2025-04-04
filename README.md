@@ -50,7 +50,7 @@ Languages and Tools
             </td>
             <td width="80px" align="center">
               <span><strong>Fastt API</strong></span><br>
-              <img height="32px" src="[https://miro.medium.com/v2/resize:fit:1023/1*du7p50wS_fIsaC_lR18qsg.png)">
+              <img height="32px" src="https://miro.medium.com/v2/resize:fit:1023/1*du7p50wS_fIsaC_lR18qsg.png">
             </td>
             <td width="80px" align="center">
               <span><strong>Machine Learning</strong></span><br>
