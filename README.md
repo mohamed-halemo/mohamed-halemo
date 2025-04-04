@@ -3,13 +3,10 @@
   [![](https://komarev.com/ghpvc/?username=mohamed-halemo&color=blue&label=Profile%20Views)](https://github.com/mohamed-halemo/mohamed-halemo)
   [![](https://img.shields.io/github/followers/mohamed-halemo?label=GitHub%20Followers)](https://github.com/mohamed-halemo)
   
-  ### Hello there, I'm Mohamed abdelhalem 
+  ### Hello there, I'm Mohamed Abdelhalem 
 
-  
-  Software engineer, Python, AI; C++ !
-
+  Software Engineer | AI Engineer | Biomedical Engineer  
 </div>
-
 
 
 About
@@ -18,9 +15,10 @@ About
 
 I’m a passionate AI engineer and software developer with a background in biomedical engineering. I specialize in AI, image processing, and software development, building intelligent solutions that bridge technology and real-world applications. With experience in machine learning, full-stack development, and cloud computing, I’m constantly exploring new challenges and pushing the boundaries of innovation.
 
-Currently, I’m pursuing my Master’s in Applied Science (Software Systems) at Ontario Tech University, aiming to deepen my expertise in AI and Software Systems.
+Currently, I’m pursuing my **Master’s in Applied Science (Software Systems) at Ontario Tech University**, aiming to deepen my expertise in AI, software security, and pervasive computing.
 
-📌 Skills: Python, AI/ML, Image Processing, FastAPI,Docker,Postgresql, Flutter, Firebase, System Design
+📌 **Skills**: Python, AI/ML, Deep Learning, Image Processing, FastAPI, Docker, PostgreSQL, Flutter, Firebase, System Design
+
 Languages and Tools
 -------------------
 <table width="320px">
@@ -31,11 +29,11 @@ Languages and Tools
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
             </td>
             <td width="80px" align="center">
-              <span><strong>Postgresql</strong></span><br>
+              <span><strong>PostgreSQL</strong></span><br>
               <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png">
             </td>
             <td width="80px" align="center">
-              <span><strong>Tensorflow</strong></span><br>
+              <span><strong>TensorFlow</strong></span><br>
               <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png">
             </td>
             <td width="80px" align="center">
@@ -49,11 +47,11 @@ Languages and Tools
               <img height="32px" src="https://2.bp.blogspot.com/-JnDJMI0s2n4/Wnyd4XnXLoI/AAAAAAAALY4/KYujvB5oO0gU-6uoMeAbcK9zmigQsDa3wCLcBGAs/s1600/pqtPython.jpg">
             </td>
             <td width="80px" align="center">
-              <span><strong>  </strong></span><br>
+              <span><strong>Docker</strong></span><br>
               <img height="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsTB0aWQUIXpAwP_4iTOqMKzkKBcSPUfsw0Q&usqp=CAU">
             </td>
             <td width="80px" align="center">
-              <span><strong>  </strong></span><br>
+              <span><strong>FastAPI</strong></span><br>
               <img height="32px" src="https://miro.medium.com/v2/resize:fit:1023/1*du7p50wS_fIsaC_lR18qsg.png">
             </td>
             <td width="80px" align="center">
@@ -62,9 +60,8 @@ Languages and Tools
             </td>
         </tr>
     </tbody>
-          
-     
 </table>
+
 GitHub stats
 ------------
 <p align="left">
@@ -93,27 +90,9 @@ GitHub stats
 | 14 | [Deep_learning_practice](https://github.com/mohamed-halemo/Deep_Learning_Practice) |
 | 15 | [group funding_website](https://github.com/mohamed-halemo/GroupFundingWebSiteProject) |
 
-
 -----------------------------------------------------
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 </br>
 
-
 [linkedin]: https://www.linkedin.com/in/mohamed-abdelhalem-eng/
-
-
-<!--
-**mohamed-halemo/mohamed-halemo** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
