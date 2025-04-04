@@ -7,7 +7,7 @@
   ### Hello there, I'm Mohamed abdelhalem 
 
   
-  Software engineer, Automation, AI; C++ !
+  Software engineer, Python, AI; C++ !
 
 </div>
 
@@ -15,7 +15,7 @@
 
 About
 -----
-My name is mohamed abdelhalem. software engineer; Student at cairo university; AI, Loves using AI to solve real world problems , Loves automating tasks and working with data in general.
+My name is mohamed abdelhalem. software engineer; Gradute from cairo university; AI, Loves using AI to solve real world problems , Loves automating tasks and working with data in general.
 
 Languages and Tools
 -------------------
@@ -27,7 +27,7 @@ Languages and Tools
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
             </td>
             <td width="80px" align="center">
-              <span><strong>Mysql</strong></span><br>
+              <span><strong>Postgresql</strong></span><br>
               <img height="32" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
             </td>
             <td width="80px" align="center">
@@ -35,7 +35,7 @@ Languages and Tools
               <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png">
             </td>
             <td width="80px" align="center">
-              <span><strong>Automation</strong></span><br>
+              <span><strong>Deep Learning</strong></span><br>
               <img height="32px" src="https://img.freepik.com/premium-vector/dark-blue-yellow-robotic-arm-automation-technology-logo-design-template_626654-302.jpg?w=2000">
             </td>
         </tr>
@@ -49,7 +49,7 @@ Languages and Tools
               <img height="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsTB0aWQUIXpAwP_4iTOqMKzkKBcSPUfsw0Q&usqp=CAU">
             </td>
             <td width="80px" align="center">
-              <span><strong>Flaskx</strong></span><br>
+              <span><strong>Fastt API</strong></span><br>
               <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png">
             </td>
             <td width="80px" align="center">
