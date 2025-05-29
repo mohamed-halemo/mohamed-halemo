@@ -15,7 +15,7 @@ About
 
 I’m a passionate AI engineer and software developer with a background in biomedical engineering. I specialize in AI, image processing, and software development, building intelligent solutions that bridge technology and real-world applications. With experience in machine learning, full-stack development, and cloud computing, I’m constantly exploring new challenges and pushing the boundaries of innovation.
 
-Currently, I’m pursuing my **Master’s in Applied Science (Software Systems) at Ontario Tech University**, aiming to deepen my expertise in AI, software security, and pervasive computing.
+Currently, I’m pursuing my **Master’s in Applied Science (Software Systems) at Ontario Tech University**, aiming to deepen my expertise in AI, software security, and IoT along with image processing.
 
 📌 **Skills**: Python, AI/ML, Deep Learning, Image Processing, FastAPI, Docker, PostgreSQL, Flutter, Firebase, System Design
 
