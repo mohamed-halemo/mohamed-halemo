@@ -3,7 +3,7 @@
   [![](https://komarev.com/ghpvc/?username=mohamed-halemo&color=blue&label=Profile%20Views)](https://github.com/mohamed-halemo/mohamed-halemo)
   [![](https://img.shields.io/github/followers/mohamed-halemo?label=GitHub%20Followers)](https://github.com/mohamed-halemo)
   
-  ### Hello there, I'm Mohamed Abdelhalem 
+  ### Hello there, I'm Mohamed Hafez 
 
   Software Engineer | AI Engineer | Biomedical Engineer  
 </div>
