@@ -48,7 +48,7 @@ Languages and Tools
             </td>
             <td width="80px" align="center">
               <span><strong>Docker</strong></span><br>
-              <img height="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsTB0aWQUIXpAwP_4iTOqMKzkKBcSPUfsw0Q&usqp=CAU">
+              <img height="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsTB0aWQUIXpAwP_4iTOqMKzkKBcSPUfsw0Q&usqp=CAU](https://fs.buttercms.com/resize=width:885/G6MTluCDSFGZcZLMSaTJ">
             </td>
             <td width="80px" align="center">
               <span><strong>FastAPI</strong></span><br>
