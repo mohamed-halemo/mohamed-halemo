@@ -5,7 +5,7 @@
   
   ### Hello there, I'm Mohamed Hafez 
 
-  Software Engineer | AI Engineer | Biomedical Engineer  
+  Software Systems Engineer | AI Engineer | Biomedical Engineer  
 </div>
 
 
