@@ -67,7 +67,7 @@ GitHub stats
 <p align="left">
     <img width="33%" src="https://github-readme-stats.vercel.app/api?username=mohamed-halemo&show_icons=true&theme=onedark&hide_border=true" />
     <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-halemo&theme=onedark&layout=compact" />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohamed-halemo" alt="GitHub Streak" /></a>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamed-halemo" alt="GitHub Streak" />
 
 </p>
 
