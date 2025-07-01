@@ -79,7 +79,7 @@ GitHub stats
 | 3 | [Auto-MED-Agent](https://github.com/mohamed-halemo/Auto-Med-Agent) |
 | 4 | [Covid-19-prediction](https://github.com/mohamed-halemo/Covid_19_Prediction_ML) |
 | 5 | [machine-learning-models](https://github.com/mohamed-halemo/Machine-learning-models) |
-| 6 | [image-processing-tools-scratch](https://github.com/mohamed-halemo/Image-processing-Tools-from-scratch) |
+| 6 | [image-processing-toolkit](https://github.com/mohamed-halemo/Image-processing-Tools-from-scratch) |
 | 7 | [Digital-signal-processing](https://github.com/mohamed-halemo/DSP-Projects) |
 | 8 | [Cervical-Spine-Fracture-Detection](https://github.com/mohamed-halemo/Cervical-Spine-Fracture-Detection) |
 | 9 | [Bioninformatics Alignment App](https://github.com/mohamed-halemo/Alignment_app) |
@@ -88,7 +88,7 @@ GitHub stats
 | 12 | [Angry-birds-using-EMG-signal-Arduino](https://github.com/mohamed-halemo/Angry-birds-using-EMG-signal-Arduino-) |
 | 13 | [Medical-images-rendering-VTK](https://github.com/mohamed-halemo/Medical-images-rendering-VTK) |
 | 14 | [Algorthims tool box](https://github.com/mohamed-halemo/Algorthims_Tool_Box) |
-| 15 | [Deep_learning_practice](https://github.com/mohamed-halemo/Deep_Learning_Practice) |
+| 15 | [Deep_learning_models](https://github.com/mohamed-halemo/Deep_Learning_Practice) |
 | 16 | [group funding_website](https://github.com/mohamed-halemo/GroupFundingWebSiteProject) |
 
 -----------------------------------------------------
