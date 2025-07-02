@@ -65,9 +65,9 @@ Languages and Tools
 GitHub stats
 ------------
 <p align="left">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=mohamed-halemo&show_icons=true&theme=onedark&hide_border=true" />
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-halemo&theme=onedark&layout=compact" />
-    <img width="33%" src="https://streak-stats.demolab.com/?user=mohamed-halemo&theme=dark)" /></p>
+    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=mohamed-halemo&show_icons=true&hide_border=true" />
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-halemo&layout=compact" />
+    <img width="33%" src="https://streak-stats.demolab.com/?user=mohamed-halemo&theme=onedark)" /></p>
 
 🫠 Projects
 --------
