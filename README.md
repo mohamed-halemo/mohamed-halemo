@@ -65,10 +65,11 @@ Languages and Tools
 GitHub stats
 ------------
 <p align="left">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=mohamed-halemo&show_icons=true&hide_border=true&theme=onedark&cache_seconds=86400" />
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-halemo&layout=compact&theme=onedark&cache_seconds=86400" />
-    <img width="33%" src="https://streak-stats.demolab.com/?user=mohamed-halemo&theme=onedark" />
+  <img width="33%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamed-halemo&show_icons=true" />
+  <img width="33%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohamed-halemo&layout=compact" />
+  <img width="33%" src="https://streak-stats.demolab.com/?user=mohamed-halemo&theme=tokyonight" />
 </p>
+
 🫠 Projects
 --------
 | Number | Repo Link  |
