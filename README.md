@@ -36,11 +36,11 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [**BrainAware: Early Alzheimer's Detection**](https://github.com/mohamed-halemo/Early-Alzheimer-s-Detection) | Classifies brain MRI into CN / MCI / AD (98.17% acc) + web app with 2D/3D viewer and patient history. *Heliyon 2024* | TensorFlow, Django, React |
+| [**MOZAIC**](https://github.com/VectorInstitute/mozaic) | Audio-video deepfake benchmark: 137K clips, 4-way labels (real/fake face × real/fake voice), 12 MLLMs + 5 detectors evaluated. With Vector Institute | Python, FaceFusion, Wan2.2, Seed-VC |
 | [**Auto-Med-Agent**](https://github.com/mohamed-halemo/Auto-Med-Agent) | Generative AI research assistant: RAG over medical papers, PubMed and clinical-trial search tools, summaries, and question generation | Transformers, FAISS, Streamlit |
 | [**AI Resume Screener**](https://github.com/mohamed-halemo/AI-Resume_Screener) | Extracts skills from resumes, ranks candidates against a job description with embeddings, and reranks the top 5 with an LLM | Python, NLP, embeddings |
 | [**Trust in AI-Assisted Retinal Diagnosis**](https://github.com/mohamed-halemo/Trust-in-AI-Assisted-Retinal-Diagnosis_Static_Interface) | Studies how much clinicians should trust AI retinal diagnoses | Python, deep learning |
 | [**Predictive Task Allocation in Smart Hospitals**](https://github.com/mohamed-halemo/Predictive-Task-Allocation-in-Smart-Hospitals-Using-Mobility-Aware-Edge-) | Predicts workload and assigns tasks across hospital staff | Python, ML |
-| [**Cervical Spine Fracture Detection**](https://github.com/mohamed-halemo/Cervical-Spine-Fracture-Detection) | Detects cervical spine fractures in CT scans (RSNA dataset) | PyTorch, medical imaging |
 
 <details>
 <summary><b>More projects: imaging, signals, ML, and software</b></summary>
@@ -48,7 +48,7 @@
 
 | Area | Projects |
 |---|---|
-| Medical imaging | [MRI Planes Viewer](https://github.com/mohamed-halemo/MRI-planes-viewer) · [Medical Image Rendering (VTK)](https://github.com/mohamed-halemo/Medical-images-rendering-VTK) · [Exudate Detection in Fundus Images](https://github.com/mohamed-halemo/Exudate-based-detection-in-fundus-images) · [Image Processing Tools from Scratch](https://github.com/mohamed-halemo/Image-processing-Tools-from-scratch) |
+| Medical imaging | [MRI Planes Viewer](https://github.com/mohamed-halemo/MRI-planes-viewer) · [Medical Image Rendering (VTK)](https://github.com/mohamed-halemo/Medical-images-rendering-VTK) · [Exudate Detection in Fundus Images](https://github.com/mohamed-halemo/Exudate-based-detection-in-fundus-images) · [Image Processing Tools from Scratch](https://github.com/mohamed-halemo/Image-processing-Tools-from-scratch) · [Cervical Spine Fracture (RSNA 2022)](https://github.com/mohamed-halemo/Cervical-Spine-Fracture-Detection) |
 | Signals and hardware | [Angry Birds Controlled by EMG (Arduino)](https://github.com/mohamed-halemo/Angry-birds-using-EMG-signal-Arduino) · [Digital Signal Processing Projects](https://github.com/mohamed-halemo/Digital-Signal-Processing-Projects) |
 | ML and DL | [COVID-19 Prediction](https://github.com/mohamed-halemo/Covid_19_Prediction_ML) · [Machine Learning Models](https://github.com/mohamed-halemo/Machine-learning-models) · [Deep Learning Practice (AE, VAE, GANs)](https://github.com/mohamed-halemo/Deep_Learning_Practice) |
 | Bioinformatics | [Sequence Alignment App (PyQt)](https://github.com/mohamed-halemo/Alignment_app) |
