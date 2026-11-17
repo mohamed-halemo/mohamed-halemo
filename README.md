@@ -28,7 +28,7 @@
 | ⚡ **Efficient deep networks** | **LagNet**: block pruning for deep networks. <!-- TODO: one line on the result + link --> |
 | | **When does block selection matter?** A benchmark of block-selection strategies for pruning. <!-- TODO: one line on the finding + link --> |
 | 🎭 **Synthetic media & deepfakes** | **MOZAIC**: audio-video deepfake benchmark that tests *what* is fake (face, voice, or both). 137K clips, 1,000 identities, with Vector Institute. [Code](https://github.com/VectorInstitute/mozaic) |
-| 🛡️ **Trustworthy AI** | **When Does Test-Time Augmentation Help Calibration?**  *VMV 2026*. [Paper](https://doi.org/10.2312/vmv20261020) |
+| 🛡️ **Trustworthy AI** | **When Does Test-Time Augmentation Help Calibration?**  *VMV 2026*. [Paper](https://doi.org/10.2312/vmv20261020) · [Code](https://github.com/mustafaerensoyhan/uncertainty-tta-medmnist) |
 | 🩺 **Medical AI** | **AI-based tool for early detection of Alzheimer's disease**. *Heliyon 2024*. 98.17% accuracy on ADNI. [Paper](https://doi.org/10.1016/j.heliyon.2024.e29375) · [Code](https://github.com/mohamed-halemo/Early-Alzheimer-s-Detection) · [Demo](https://mohamed-halemo.github.io/Early-Alzheimer-s-Detection/) |
 
 ### 🚀 Featured projects
@@ -37,9 +37,9 @@
 |---|---|---|
 | [**BrainAware: Early Alzheimer's Detection**](https://github.com/mohamed-halemo/Early-Alzheimer-s-Detection) | Classifies brain MRI into CN / MCI / AD (98.17% acc) + web app with 2D/3D viewer and patient history. *Heliyon 2024* · [Live demo](https://mohamed-halemo.github.io/Early-Alzheimer-s-Detection/) | TensorFlow, Django, React |
 | [**MOZAIC**](https://github.com/VectorInstitute/mozaic) | Audio-video deepfake benchmark: 137K clips, 4-way labels (real/fake face × real/fake voice), 12 MLLMs + 5 detectors evaluated. With Vector Institute | Python, FaceFusion, Wan2.2, Seed-VC |
+| [**When Does TTA Help Calibration?**](https://github.com/mustafaerensoyhan/uncertainty-tta-medmnist) | Test-time augmentation and calibration on 6 MedMNIST datasets, 3 backbones, 9 fusion methods. Entropy weighting cuts ECE by up to 41%. *VMV 2026* | PyTorch, MedMNIST |
 | [**Auto-Med-Agent**](https://github.com/mohamed-halemo/Auto-Med-Agent) | Generative AI research assistant: RAG over medical papers, PubMed and clinical-trial search tools, summaries, and question generation | Transformers, FAISS, Streamlit |
 | [**AI Resume Screener**](https://github.com/mohamed-halemo/AI-Resume_Screener) | Parses resumes (local or Groq LLM), scores them against a job with spaCy + Sentence-BERT, and ranks applicants | FastAPI, PostgreSQL, Next.js |
-| [**Trust in AI-Assisted Retinal Diagnosis**](https://github.com/mohamed-halemo/Trust-in-AI-Assisted-Retinal-Diagnosis_Static_Interface) | Participatory-design prototype for AI retinal screening: clinician, patient and admin views, trust score, feedback loops | Streamlit, Plotly |
 
 <details>
 <summary><b>More projects: imaging, signals, ML, and software</b></summary>
@@ -47,7 +47,7 @@
 
 | Area | Projects |
 |---|---|
-| Medical imaging | [MRI Planes Viewer](https://github.com/mohamed-halemo/MRI-planes-viewer) · [Medical Image Rendering (VTK)](https://github.com/mohamed-halemo/Medical-images-rendering-VTK) · [Exudate Detection in Fundus Images](https://github.com/mohamed-halemo/Exudate-based-detection-in-fundus-images) · [Image Processing Tools from Scratch](https://github.com/mohamed-halemo/Image-processing-Tools-from-scratch) · [Cervical Spine Fracture (RSNA 2022)](https://github.com/mohamed-halemo/Cervical-Spine-Fracture-Detection) |
+| Medical imaging | [MRI Planes Viewer](https://github.com/mohamed-halemo/MRI-planes-viewer) · [Medical Image Rendering (VTK)](https://github.com/mohamed-halemo/Medical-images-rendering-VTK) · [Exudate Detection in Fundus Images](https://github.com/mohamed-halemo/Exudate-based-detection-in-fundus-images) · [Image Processing Tools from Scratch](https://github.com/mohamed-halemo/Image-processing-Tools-from-scratch) · [Cervical Spine Fracture (RSNA 2022)](https://github.com/mohamed-halemo/Cervical-Spine-Fracture-Detection) · [Trust in AI Retinal Screening (UI prototype)](https://github.com/mohamed-halemo/Trust-in-AI-Assisted-Retinal-Diagnosis_Static_Interface) |
 | Signals and hardware | [Angry Birds Controlled by EMG (Arduino)](https://github.com/mohamed-halemo/Angry-birds-using-EMG-signal-Arduino) · [Digital Signal Processing Projects](https://github.com/mohamed-halemo/Digital-Signal-Processing-Projects) |
 | ML and DL | [COVID-19 Prediction](https://github.com/mohamed-halemo/Covid_19_Prediction_ML) · [Machine Learning Models](https://github.com/mohamed-halemo/Machine-learning-models) · [Deep Learning Practice (AE, VAE, GANs)](https://github.com/mohamed-halemo/Deep_Learning_Practice) |
 | Bioinformatics | [Sequence Alignment App (PyQt)](https://github.com/mohamed-halemo/Alignment_app) |
