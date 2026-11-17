@@ -40,7 +40,6 @@
 | [**Auto-Med-Agent**](https://github.com/mohamed-halemo/Auto-Med-Agent) | Generative AI research assistant: RAG over medical papers, PubMed and clinical-trial search tools, summaries, and question generation | Transformers, FAISS, Streamlit |
 | [**AI Resume Screener**](https://github.com/mohamed-halemo/AI-Resume_Screener) | Extracts skills from resumes, ranks candidates against a job description with embeddings, and reranks the top 5 with an LLM | Python, NLP, embeddings |
 | [**Trust in AI-Assisted Retinal Diagnosis**](https://github.com/mohamed-halemo/Trust-in-AI-Assisted-Retinal-Diagnosis_Static_Interface) | Studies how much clinicians should trust AI retinal diagnoses | Python, deep learning |
-| [**Predictive Task Allocation in Smart Hospitals**](https://github.com/mohamed-halemo/Predictive-Task-Allocation-in-Smart-Hospitals-Using-Mobility-Aware-Edge-) | Predicts workload and assigns tasks across hospital staff | Python, ML |
 
 <details>
 <summary><b>More projects: imaging, signals, ML, and software</b></summary>
@@ -52,7 +51,7 @@
 | Signals and hardware | [Angry Birds Controlled by EMG (Arduino)](https://github.com/mohamed-halemo/Angry-birds-using-EMG-signal-Arduino) · [Digital Signal Processing Projects](https://github.com/mohamed-halemo/Digital-Signal-Processing-Projects) |
 | ML and DL | [COVID-19 Prediction](https://github.com/mohamed-halemo/Covid_19_Prediction_ML) · [Machine Learning Models](https://github.com/mohamed-halemo/Machine-learning-models) · [Deep Learning Practice (AE, VAE, GANs)](https://github.com/mohamed-halemo/Deep_Learning_Practice) |
 | Bioinformatics | [Sequence Alignment App (PyQt)](https://github.com/mohamed-halemo/Alignment_app) |
-| Software | [Algorithms Toolbox](https://github.com/mohamed-halemo/Algorthims_Tool_Box) · [Group Funding Website](https://github.com/mohamed-halemo/GroupFundingWebSiteProject) · [Secure Coding](https://github.com/mohamed-halemo/Secure_Coding) |
+| Software | [Algorithms Toolbox](https://github.com/mohamed-halemo/Algorthims_Tool_Box) · [Group Funding Website](https://github.com/mohamed-halemo/GroupFundingWebSiteProject) · [Secure Coding](https://github.com/mohamed-halemo/Secure_Coding) · [Smart Hospital Simulation](https://github.com/mohamed-halemo/Predictive-Task-Allocation-in-Smart-Hospitals-Using-Mobility-Aware-Edge-) |
 
 </details>
 
