@@ -51,7 +51,7 @@
 | Signals and hardware | [Angry Birds Controlled by EMG (Arduino)](https://github.com/mohamed-halemo/Angry-birds-using-EMG-signal-Arduino) · [Digital Signal Processing Projects](https://github.com/mohamed-halemo/Digital-Signal-Processing-Projects) |
 | ML and DL | [COVID-19 Prediction](https://github.com/mohamed-halemo/Covid_19_Prediction_ML) · [Machine Learning Models](https://github.com/mohamed-halemo/Machine-learning-models) · [Deep Learning Practice (AE, VAE, GANs)](https://github.com/mohamed-halemo/Deep_Learning_Practice) |
 | Bioinformatics | [Sequence Alignment App (PyQt)](https://github.com/mohamed-halemo/Alignment_app) |
-| Software | [Algorithms Toolbox](https://github.com/mohamed-halemo/Algorthims_Tool_Box) · [Group Funding Website](https://github.com/mohamed-halemo/GroupFundingWebSiteProject) · [Secure Coding](https://github.com/mohamed-halemo/Secure_Coding) · [Smart Hospital Simulation](https://github.com/mohamed-halemo/Predictive-Task-Allocation-in-Smart-Hospitals-Using-Mobility-Aware-Edge-) |
+| Software | [Algorithms Toolbox](https://github.com/mohamed-halemo/Algorithms-Toolbox) · [Group Funding Website](https://github.com/mohamed-halemo/GroupFundingWebSiteProject) · [Secure Coding](https://github.com/mohamed-halemo/Secure_Coding) · [Smart Hospital Simulation](https://github.com/mohamed-halemo/Predictive-Task-Allocation-in-Smart-Hospitals-Using-Mobility-Aware-Edge-) |
 
 </details>
 
