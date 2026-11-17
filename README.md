@@ -39,7 +39,7 @@
 | [**MOZAIC**](https://github.com/VectorInstitute/mozaic) | Audio-video deepfake benchmark: 137K clips, 4-way labels (real/fake face × real/fake voice), 12 MLLMs + 5 detectors evaluated. With Vector Institute | Python, FaceFusion, Wan2.2, Seed-VC |
 | [**Auto-Med-Agent**](https://github.com/mohamed-halemo/Auto-Med-Agent) | Generative AI research assistant: RAG over medical papers, PubMed and clinical-trial search tools, summaries, and question generation | Transformers, FAISS, Streamlit |
 | [**AI Resume Screener**](https://github.com/mohamed-halemo/AI-Resume_Screener) | Parses resumes (local or Groq LLM), scores them against a job with spaCy + Sentence-BERT, and ranks applicants | FastAPI, PostgreSQL, Next.js |
-| [**Trust in AI-Assisted Retinal Diagnosis**](https://github.com/mohamed-halemo/Trust-in-AI-Assisted-Retinal-Diagnosis_Static_Interface) | Studies how much clinicians should trust AI retinal diagnoses | Python, deep learning |
+| [**Trust in AI-Assisted Retinal Diagnosis**](https://github.com/mohamed-halemo/Trust-in-AI-Assisted-Retinal-Diagnosis_Static_Interface) | Participatory-design prototype for AI retinal screening: clinician, patient and admin views, trust score, feedback loops | Streamlit, Plotly |
 
 <details>
 <summary><b>More projects: imaging, signals, ML, and software</b></summary>
