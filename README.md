@@ -30,7 +30,7 @@
 | 🎭 **Synthetic media & deepfakes** | **MOZAIC**: audio-video deepfake benchmark that tests *what* is fake (face, voice, or both). 137K clips, 1,000 identities, with Vector Institute. [Code](https://github.com/VectorInstitute/mozaic) |
 | 🛡️ **Trustworthy AI** | **When Does Test-Time Augmentation Help Calibration?**  *VMV 2026*. [Paper](https://doi.org/10.2312/vmv20261020) · [Code](https://github.com/mustafaerensoyhan/uncertainty-tta-medmnist) |
 | 🩺 **Medical AI** | **AI-based tool for early detection of Alzheimer's disease**. *Heliyon 2024*. 98.17% accuracy on ADNI. [Paper](https://doi.org/10.1016/j.heliyon.2024.e29375) · [Code](https://github.com/mohamed-halemo/Early-Alzheimer-s-Detection) · [Demo](https://mohamed-halemo.github.io/Early-Alzheimer-s-Detection/) |
-| 🔐 **Medical data security** | **Smart Encryption: A Novel Hybrid Approach to Selectively Encrypt Medical Images**. AES-256 on the heart ROI, ChaCha20 on the rest, 60–70% faster than full AES. [Code](https://github.com/mohamed-halemo/Selective-Encryption) |
+| 🔐 **Medical data security** | **Smart Encryption: A Novel Hybrid Approach to Selectively Encrypt Medical Images**. *IEEE NoF 2025*. AES-256 on the heart ROI, ChaCha20 on the rest, 60–70% faster than full AES. [Paper](https://ieeexplore.ieee.org/abstract/document/11223323) · [Code](https://github.com/mohamed-halemo/Selective-Encryption) |
 
 ### 🚀 Featured projects
 
