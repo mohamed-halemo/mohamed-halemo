@@ -42,12 +42,15 @@
 | [**BrainAware: Early Alzheimer's Detection**](https://github.com/mohamed-halemo/Early-Alzheimer-s-Detection) | Classifies brain MRI into CN / MCI / AD (98.17% acc) + web app with 2D/3D viewer and patient history. *Heliyon 2024* · [Live demo](https://mohamed-halemo.github.io/Early-Alzheimer-s-Detection/) | TensorFlow, Django, React |
 | [**MOZAIC**](https://github.com/VectorInstitute/mozaic) | Audio-video deepfake benchmark: 137K clips, 4-way labels (real/fake face × real/fake voice), 12 MLLMs + 5 detectors evaluated. With Vector Institute | Python, FaceFusion, Wan2.2, Seed-VC |
 | [**When Does TTA Help Calibration?**](https://github.com/mustafaerensoyhan/uncertainty-tta-medmnist) | Test-time augmentation and calibration on 6 MedMNIST datasets, 3 backbones, 9 fusion methods. Entropy weighting cuts ECE by up to 41%. *VMV 2026* | PyTorch, MedMNIST |
+| [**BioMed Lab**](https://mohamed-halemo.github.io/biomed-lab/) | 15 of my biomedical desktop apps rebuilt as browser tools: CT reconstruction, MRI viewer + 3D, ECG aliasing, Z-transform filter design, sequence alignment. [Try it](https://mohamed-halemo.github.io/biomed-lab/) · [Code](https://github.com/mohamed-halemo/biomed-lab) | React, TypeScript, Web Workers |
 | [**Auto-Med-Agent**](https://github.com/mohamed-halemo/Auto-Med-Agent) | Generative AI research assistant: RAG over medical papers, PubMed and clinical-trial search tools, summaries, and question generation | Transformers, FAISS, Streamlit |
 | [**AI Resume Screener**](https://github.com/mohamed-halemo/AI-Resume_Screener) | Parses resumes (local or Groq LLM), scores them against a job with spaCy + Sentence-BERT, and ranks applicants | FastAPI, PostgreSQL, Next.js |
 
 <details>
 <summary><b>More projects: imaging, signals, ML, and software</b></summary>
 <br>
+
+Most of the imaging, signal and bio projects below now run in the browser in [BioMed Lab](https://mohamed-halemo.github.io/biomed-lab/).
 
 | Area | Projects |
 |---|---|
