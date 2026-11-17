@@ -8,9 +8,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-abdelhalem-eng/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://orcid.org/0009-0006-2415-7709"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <!-- TODO: add or delete these two -->
-  <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://scholar.google.com/citations?user=FKvtaNQAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="mailto:mohamedabdelhalem.ns@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -28,18 +27,19 @@
 |---|---|
 | ⚡ **Efficient deep networks** | **LagNet**: block pruning for deep networks. <!-- TODO: one line on the result + link --> |
 | | **When does block selection matter?** A benchmark of block-selection strategies for pruning. <!-- TODO: one line on the finding + link --> |
-| 🎭 **Synthetic media & deepfakes** | Deepfake data generation. <!-- TODO: one line on scale/use + link --> |
+| 🎭 **Synthetic media & deepfakes** | **MOZAIC**: audio-video deepfake benchmark that tests *what* is fake (face, voice, or both). 137K clips, 1,000 identities, with Vector Institute. [Code](https://github.com/VectorInstitute/mozaic) |
 | 🛡️ **Trustworthy AI** | **When Does Test-Time Augmentation Help Calibration?**  *VMV 2026*. [Paper](https://doi.org/10.2312/vmv20261020) |
+| 🩺 **Medical AI** | **AI-based tool for early detection of Alzheimer's disease**. *Heliyon 2024*. 98.17% accuracy on ADNI. [Paper](https://doi.org/10.1016/j.heliyon.2024.e29375) · [Code](https://github.com/mohamed-halemo/Early-Alzheimer-s-Detection) |
 
 ### 🚀 Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**BrainAware: Early Alzheimer's Detection**](https://github.com/mohamed-halemo/Early-Alzheimer-s-Detection) | Classifies brain MRI into CN / MCI / AD (98.17% acc) + web app with 2D/3D viewer and patient history. *Heliyon 2024* | TensorFlow, Django, React |
 | [**Auto-Med-Agent**](https://github.com/mohamed-halemo/Auto-Med-Agent) | Generative AI research assistant: RAG over medical papers, PubMed and clinical-trial search tools, summaries, and question generation | Transformers, FAISS, Streamlit |
 | [**AI Resume Screener**](https://github.com/mohamed-halemo/AI-Resume_Screener) | Extracts skills from resumes, ranks candidates against a job description with embeddings, and reranks the top 5 with an LLM | Python, NLP, embeddings |
-| [**Trust in AI-Assisted Retinal Diagnosis**](https://github.com/mohamed-halemo/Trust-in-AI-Assisted-Retinal-Diagnosis_Static) | Studies how much clinicians should trust AI retinal diagnoses | Python, deep learning |
-| [**Predictive Task Allocation in Smart Hospitals**](https://github.com/mohamed-halemo/Predictive-Task-Allocation-in-Smart-Hospitals) | Predicts workload and assigns tasks across hospital staff | Python, ML |
-| [**Early Alzheimer's Detection**](https://github.com/mohamed-halemo/Early-Alzheimer-s-Detection) | Deep learning model for early Alzheimer's detection from brain MRI | Deep learning |
+| [**Trust in AI-Assisted Retinal Diagnosis**](https://github.com/mohamed-halemo/Trust-in-AI-Assisted-Retinal-Diagnosis_Static_Interface) | Studies how much clinicians should trust AI retinal diagnoses | Python, deep learning |
+| [**Predictive Task Allocation in Smart Hospitals**](https://github.com/mohamed-halemo/Predictive-Task-Allocation-in-Smart-Hospitals-Using-Mobility-Aware-Edge-) | Predicts workload and assigns tasks across hospital staff | Python, ML |
 | [**Cervical Spine Fracture Detection**](https://github.com/mohamed-halemo/Cervical-Spine-Fracture-Detection) | Detects cervical spine fractures in CT scans (RSNA dataset) | PyTorch, medical imaging |
 
 <details>
