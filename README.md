@@ -17,7 +17,7 @@
 
 ### 🧠 About me
 
-- 🎓 **MASc in Software Systems** at Ontario Tech University, in the **IoT Research Lab** with Prof. Khalid Elgazzar
+- 🎓 **MASc in Electrical and Computer Engineering** at Ontario Tech University, in the **IoT Research Lab** with Prof. Khalid Elgazzar
 - 🔬 I do AI research across **model efficiency**, **synthetic media**, and **trustworthy AI**
 - 🛠️ I ship real systems too: LLM agents, RAG pipelines, APIs, and apps
 - 🩺 Background in **Biomedical Engineering**: imaging, signal processing, and hardware
